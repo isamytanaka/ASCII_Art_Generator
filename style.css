@@ -1,0 +1,13 @@
+body {
+  font-family: monospace;
+  white-space: pre;
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+}
+
+input, button {
+  padding: 10px;
+  margin: 10px;
+}
