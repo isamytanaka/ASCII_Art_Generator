@@ -1,0 +1,2 @@
+## ASCII Art Generator
+This project is an **ASCII Art Generator** that converts an image into an ASCII representation. Users can paste an image URL, and the tool will display the generated ASCII art in a monospaced font. It uses HTML5 canvas to process the image and convert its pixel data into ASCII characters based on brightness levels. The project is built with HTML, CSS, and JavaScript, and is designed to be simple and easy to use in any modern web browser.
